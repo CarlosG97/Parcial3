@@ -1,0 +1,364 @@
+dest_airport_id;_Dest;_DestCityName;_DestState
+1;30977;"ORD";"Chicago
+2;30194;"DFW";"Dallas/Fort Worth
+3;30423;"AUS";"Austin
+4;31057;"CLT";"Charlotte
+5;30647;"CLE";"Cleveland
+6;31123;"STL";"St. Louis
+7;31454;"MCO";"Orlando
+8;30466;"PHX";"Phoenix
+9;34100;"PHL";"Philadelphia
+10;31703;"EWR";"Newark
+11;33195;"TPA";"Tampa
+12;32467;"MIA";"Miami
+13;30436;"TUS";"Tucson
+14;30852;"DCA";"Washington
+15;32575;"SNA";"Santa Ana
+16;32457;"SFO";"San Francisco
+17;32575;"LAX";"Los Angeles
+18;34492;"RDU";"Raleigh/Durham
+19;31703;"LGA";"New York
+20;33570;"SAN";"San Diego
+21;31871;"GSP";"Greer
+22;32457;"OAK";"Oakland
+23;34819;"SJU";"San Juan
+24;31453;"IAH";"Houston
+25;33198;"MCI";"Kansas City
+26;30397;"ATL";"Atlanta
+27;30325;"DEN";"Denver
+28;30994;"CHS";"Charleston
+29;33214;"SAT";"San Antonio
+30;30721;"BOS";"Boston
+31;32337;"IND";"Indianapolis
+32;34027;"PBI";"West Palm Beach/Palm Beach
+33;33495;"MSY";"New Orleans
+34;32467;"FLL";"Fort Lauderdale
+35;31136;"JAX";"Jacksonville
+36;30140;"ABQ";"Albuquerque
+37;30198;"PIT";"Pittsburgh
+38;30693;"BNA";"Nashville
+39;33244;"MEM";"Memphis
+40;31714;"RSW";"Fort Myers
+41;30529;"BDL";"Hartford
+42;32896;"LBB";"Lubbock
+43;30721;"PVD";"Providence
+44;31295;"DTW";"Detroit
+45;31703;"JFK";"New York
+46;30559;"SEA";"Seattle
+47;32070;"MDT";"Harrisburg
+48;31650;"MSP";"Minneapolis
+49;33728;"PNS";"Pensacola
+50;33851;"OKC";"Oklahoma City
+51;34262;"PSP";"Palm Springs
+52;30852;"BWI";"Baltimore
+53;31638;"FAT";"Fresno
+54;34570;"RNO";"Reno
+55;34057;"PDX";"Portland
+56;33316;"OMA";"Omaha
+57;31066;"CMH";"Columbus
+58;32211;"LAS";"Las Vegas
+59;30713;"BOI";"Boise
+60;31503;"EGE";"Eagle
+61;34614;"SLC";"Salt Lake City
+62;33342;"MKE";"Milwaukee
+63;30792;"BUF";"Buffalo
+64;33105;"CVG";"Cincinnati
+65;33256;"MFE";"Mission/McAllen/Edinburg
+66;30279;"AMA";"Amarillo
+67;33044;"SDF";"Louisville
+68;30868;"CAE";"Columbia
+69;32575;"ONT";"Ontario
+70;32575;"BUR";"Burbank
+71;34653;"TUL";"Tulsa
+72;32323;"ILM";"Wilmington
+73;34524;"RIC";"Richmond
+74;31995;"GSO";"Greensboro/High Point
+75;32457;"SJC";"San Jose
+76;34685;"SAV";"Savannah
+77;30189;"COS";"Colorado Springs
+78;30615;"ELP";"El Paso
+79;33502;"MTJ";"Montrose/Delta
+80;33158;"MAF";"Midland/Odessa
+81;30849;"BZN";"Bozeman
+82;30852;"IAD";"Washington
+83;33192;"SMF";"Sacramento
+84;33667;"ORF";"Norfolk
+85;33830;"OGG";"Kahului
+86;34689;"SBA";"Santa Barbara
+87;30928;"ICT";"Wichita
+88;35096;"SYR";"Syracuse
+89;32758;"KOA";"Kona
+90;32982;"LIH";"Lihue
+91;32134;"HNL";"Honolulu
+92;31884;"GEG";"Spokane
+93;31986;"GRR";"Grand Rapids
+94;34986;"SRQ";"Sarasota/Bradenton
+95;34321;"PWM";"Portland
+96;30599;"BHM";"Birmingham
+97;31637;"FAR";"Fargo
+98;32600;"LIT";"Little Rock
+99;32441;"JAC";"Jackson
+100;33485;"MSN";"Madison
+101;34945;"STT";"Charlotte Amalie
+102;34699;"HDN";"Hayden
+103;34992;"STX";"Christiansted
+104;31423;"DSM";"Des Moines
+105;31504;"VPS";"Valparaiso
+106;31624;"EYW";"Key West
+107;31135;"MYR";"Myrtle Beach
+108;30257;"ALB";"Albany
+109;32012;"GUC";"Gunnison
+110;31834;"XNA";"Fayetteville
+111;35412;"TYS";"Knoxville
+112;30721;"MHT";"Manchester
+113;33139;"LYH";"Lynchburg
+114;32397;"ITH";"Ithaca/Cortland
+115;34576;"ROC";"Rochester
+116;34704;"SBY";"Salisbury
+117;34092;"PGV";"Greenville
+118;32223;"HTS";"Ashland
+119;31703;"ISP";"Islip
+120;33277;"MGM";"Montgomery
+121;35165;"TOL";"Toledo
+122;30562;"MOB";"Mobile
+123;32365;"IPT";"Williamsport
+124;31699;"FLO";"Florence
+125;31823;"FWA";"Fort Wayne
+126;30990;"CHO";"Charlottesville
+127;34574;"ROA";"Roanoke
+128;30434;"AVP";"Scranton/Wilkes-Barre
+129;34711;"SCE";"State College
+130;32945;"LEX";"Lexington
+131;30208;"AGS";"Augusta
+132;33795;"OAJ";"Jacksonville/Camp Lejeune
+133;35323;"TRI";"Bristol/Johnson City/Kingsport
+134;31577;"ERI";"Erie
+135;30135;"ABE";"Allentown/Bethlehem/Easton
+136;31703;"SWF";"Newburgh/Poughkeepsie
+137;30581;"BGR";"Bangor
+138;30361;"ART";"Watertown
+139;33667;"PHF";"Newport News/Williamsburg
+140;30431;"AVL";"Asheville
+141;34433;"STS";"Santa Rosa
+142;31603;"EUG";"Eugene
+143;30647;"CAK";"Akron
+144;31641;"FAY";"Fayetteville
+145;32448;"JAN";"Jackson/Vicksburg
+146;30785;"BTV";"Burlington
+147;31612;"EVV";"Evansville
+148;33933;"ORH";"Worcester
+149;30747;"BRO";"Brownsville
+150;31453;"HOU";"Houston
+151;30255;"HSV";"Huntsville
+152;32474;"COU";"Columbia
+153;32244;"HVN";"New Haven
+154;31252;"DAB";"Daytona Beach
+155;32124;"HHH";"Hilton Head
+156;34457;"RAP";"Rapid City
+157;31140;"CRP";"Corpus Christi
+158;31775;"FSD";"Sioux Falls
+159;31921;"GJT";"Grand Junction
+160;30781;"BTR";"Baton Rouge
+161;31982;"GRK";"Killeen
+162;31267;"DAY";"Dayton
+163;33029;"LNK";"Lincoln
+164;35380;"TVC";"Traverse City
+165;30285;"DRO";"Durango
+166;31977;"GRB";"Green Bay
+167;32884;"LAN";"Lansing
+168;32206;"HRL";"Harlingen/San Benito
+169;30620;"BIL";"Billings
+170;30185;"AEX";"Alexandria
+171;30469;"AZO";"Kalamazoo
+172;31049;"CLL";"College Station/Bryan
+173;31973;"GPT";"Gulfport/Biloxi
+174;32951;"LFT";"Lafayette
+175;31146;"CRW";"Charleston/Dunbar
+176;31205;"LCH";"Lake Charles
+177;31481;"ECP";"Panama City
+178;31721;"FNT";"Flint
+179;30476;"SHV";"Shreveport
+180;34783;"SGF";"Springfield
+181;34108;"PIA";"Peoria
+182;33377;"MLU";"Monroe
+183;33038;"LRD";"Laredo
+184;34696;"SBN";"South Bend
+185;31003;"CID";"Cedar Rapids/Iowa City
+186;32177;"HOB";"Hobbs
+187;30299;"ANC";"Anchorage
+188;30113;"BET";"Bethel
+189;30070;"ADQ";"Kodiak
+190;30107;"BRW";"Barrow
+191;30073;"SCC";"Deadhorse
+192;31517;"FAI";"Fairbanks
+193;30913;"CDV";"Cordova
+194;35991;"YAK";"Yakutat
+195;32523;"JNU";"Juneau
+196;31401;"KTN";"Ketchikan
+197;34828;"SIT";"Sitka
+198;34256;"PSG";"Petersburg
+199;35841;"WRG";"Wrangell
+200;33873;"OME";"Nome
+201;33970;"OTZ";"Kotzebue
+202;30165;"ADK";"Adak Island
+203;36101;"YKM";"Yakima
+204;30275;"ALW";"Walla Walla
+205;30194;"DAL";"Dallas
+206;32156;"HLN";"Helena
+207;31470;"EAT";"Wenatchee
+208;31648;"FCA";"Kalispell
+209;34489;"RDM";"Bend/Redmond
+210;33264;"MFR";"Medford
+211;34252;"PSC";"Pasco/Kennewick/Richland
+212;34004;"PAE";"Everett
+213;34303;"PUW";"Pullman
+214;33486;"MSO";"Missoula
+215;31895;"GTF";"Great Falls
+216;30666;"BLI";"Bellingham
+217;35041;"SUN";"Sun Valley/Hailey/Ketchum
+218;32575;"LGB";"Long Beach
+219;32402;"ITO";"Hilo
+220;34222;"PPG";"Pago Pago
+221;33347;"MKK";"Hoolehua
+222;33034;"LNY";"Lanai
+223;32492;"JHM";"Kapalua
+224;35356;"TTN";"Trenton
+225;30685;"BMI";"Bloomington/Normal
+226;30562;"BFM";"Mobile
+227;35411;"TYR";"Tyler
+228;30977;"MDW";"Chicago
+229;32544;"USA";"CONCORD
+230;30466;"AZA";"Phoenix
+231;34761;"SFB";"Sanford
+232;33195;"PIE";"St. Petersburg
+233;34259;"PSM";"Portsmouth
+234;33983;"OWB";"Owensboro
+235;34082;"PGD";"Punta Gorda
+236;30408;"ATW";"Appleton
+237;30676;"BLV";"Belleville
+238;34905;"SMX";"Santa Maria
+239;34025;"PBG";"Plattsburgh
+240;34512;"RFD";"Rockford
+241;32265;"IAG";"Niagara Falls
+242;31066;"LCK";"Columbus
+243;33304;"MOT";"Minot
+244;31027;"CKB";"Clarksburg/Fairmont
+245;34716;"SCK";"Stockton
+246;31980;"GRI";"Grand Island
+247;32556;"STC";"St. Cloud
+248;34314;"PVU";"Provo
+249;31898;"GFK";"Grand Forks
+250;32280;"IDA";"Idaho Falls
+251;31537;"ELM";"Elmira/Corning
+252;30980;"CHA";"Chattanooga
+253;32119;"HGR";"Hagerstown
+254;33367;"MLI";"Moline
+255;30627;"BIS";"Bismarck/Mandan
+256;33832;"OGS";"Ogdensburg
+257;34952;"SPI";"Springfield
+258;32131;"OGD";"Ogden
+259;34922;"MRY";"Monterey
+260;31695;"FLG";"Flagstaff
+261;34674;"SAF";"Santa Fe
+262;33785;"YUM";"Yuma
+263;30561;"BFL";"Bakersfield
+264;31778;"FSM";"Fort Smith
+265;32511;"JLN";"Joplin
+266;35249;"TLH";"Tallahassee
+267;34254;"PSE";"Ponce
+268;31703;"HPN";"White Plains
+269;30732;"BQN";"Aguadilla
+270;33360;"MLB";"Melbourne
+271;31953;"GNV";"Gainesville
+272;33184;"MBS";"Saginaw/Bay City/Midland
+273;31617;"EWN";"New Bern/Morehead/Beaufort
+274;32547;"RST";"Rochester
+275;31150;"CSG";"Columbus
+276;30424;"CWA";"Mosinee
+277;33076;"LSE";"La Crosse
+278;34236;"SBP";"San Luis Obispo
+279;34588;"ROW";"Roswell
+280;34109;"PIB";"Hattiesburg/Laurel
+281;34794;"SGU";"St. George
+282;31233;"CYS";"Cheyenne
+283;33241;"MEI";"Meridian
+284;30372;"ASE";"Aspen
+285;33290;"MHK";"Manhattan/Ft. Riley
+286;30894;"GTR";"Columbus
+287;35550;"VLD";"Valdosta
+288;31337;"DLH";"Duluth
+289;30731;"BQK";"Brunswick
+290;32389;"XWA";"Williston
+291;30146;"ABY";"Albany
+292;31308;"DHN";"Dothan
+293;33127;"LWS";"Lewiston
+294;32343;"INL";"International Falls
+295;31013;"CIU";"Sault Ste. Marie
+296;34113;"PIH";"Pocatello
+297;33459;"MQT";"Marquette
+298;31525;"EKO";"Elko
+299;30577;"BGM";"Binghamton
+300;31122;"CPR";"Casper
+301;30918;"CDC";"Cedar City
+302;32129;"HIB";"Hibbing
+303;35389;"TWF";"Twin Falls
+304;32335;"IMT";"Iron Mountain/Kingsfd
+305;30141;"ABR";"Aberdeen
+306;34150;"PLN";"Pellston
+307;30333;"APN";"Alpena
+308;31587;"ESC";"Escanaba
+309;30739;"BRD";"Brainerd
+310;30631;"BJI";"Bemidji
+311;34520;"RHI";"Rhinelander
+312;30779;"BTM";"Butte
+313;30558;"BFF";"Scottsbluff
+314;32519;"JMS";"Jamestown
+315;33344;"MKG";"Muskegon
+316;34802;"SHD";"Staunton
+317;35454;"UIN";"Quincy
+318;32902;"LBL";"Liberal
+319;34288;"PUB";"Pueblo
+320;34006;"PAH";"Paducah
+321;30967;"CGI";"Cape Girardeau
+322;32899;"LBF";"North Platte
+323;31468;"EAR";"Kearney
+324;34543;"RKS";"Rock Springs
+325;31076;"CMX";"Hancock/Houghton
+326;31471;"EAU";"Eau Claire
+327;35582;"VEL";"Vernal
+328;31092;"CNY";"Moab
+329;33121;"LWB";"Lewisburg
+330;31447;"DVL";"Devils Lake
+331;32888;"LAR";"Laramie
+332;34877;"SLN";"Salina
+333;32255;"HYS";"Hays
+334;31865;"GCC";"Gillette
+335;30409;"ATY";"Watertown
+336;34120;"PIR";"Pierre
+337;34237;"PRC";"Prescott
+338;33964;"OTH";"North Bend/Coos Bay
+339;30157;"ACV";"Arcata/Eureka
+340;33388;"MMH";"Mammoth Lakes
+341;33792;"RDD";"Redding
+342;32891;"LAW";"Lawton/Fort Sill
+343;30155;"ACT";"Waco
+344;31097;"COD";"Cody
+345;30136;"ABI";"Abilene
+346;35074;"SWO";"Stillwater
+347;34842;"SJT";"San Angelo
+348;35048;"SUX";"Sioux City
+349;31335;"DRT";"Del Rio
+350;35401;"TXK";"Texarkana
+351;31067;"CMI";"Champaign/Urbana
+352;30268;"ALO";"Waterloo
+353;30728;"BPT";"Beaumont/Port Arthur
+354;31867;"GCK";"Garden City
+355;31274;"DBQ";"Dubuque
+356;31905;"GGG";"Longview
+357;34960;"SPS";"Wichita Falls
+358;30158;"ACY";"Atlantic City
+359;32898;"LBE";"Latrobe
+360;32016;"GUM";"Guam
+361;34955;"SPN";"Saipan
+362;34231;"PQI";"Presque Isle/Houlton
+363;31315;"DIK";"Dickinson
